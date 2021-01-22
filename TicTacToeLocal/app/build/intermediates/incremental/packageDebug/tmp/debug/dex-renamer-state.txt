@@ -1,0 +1,4 @@
+#Fri Jan 22 11:38:03 IST 2021
+base.0=D\:\\STUDY-MODE\\PERSONAL\\KotlinUdemy-master\\KotlinUdemy-master\\Android\\TicTacToy Game\\TicTacToeLocal\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

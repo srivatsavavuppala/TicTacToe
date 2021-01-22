@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\5d04706431cee6d9eb37ffcadec18ce2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8fc5cbd9ec8e3af57640f2c26eee365b\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8221535a8f99ec4a9b7c5a6218939d71\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\c90fc6e062d70717277692d05a6b40fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\f71c0397eaea63de0809af19192208cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\761176c291af4f29bb74ccd9a681ef1b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\33e44b11f39b4b7ccb2e188f4b875ee2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\7a7ef024c47faeb647a5fec721508778\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\5beef4d07e2e820e202407d045f9cebe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\e2799cab3d793425c63a74f588b3e19c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\c760e46db9b04a7be5fae0b1dc8ffcc2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\e1f9ae39301f053ec5fa5dce1e2e1b38\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\2485a6a8e1c15788c7451f5a0dd970d2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\3bbf076d71e981ef3472738987359035\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\d252277807418589261d6d4e91472d37\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\99d3c62305b11601f9913dcadea92488\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8fa728c6ee3383aecde2ea98f83d9de9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\ea9e23712124ad8767a0bc9454fbd53c\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\1a6d097128afbccc39a7338bad9e9dff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\04917db2f5bc4eb7aa89c96f60eab39b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\abf4233938f230022b60fca181c3c751\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\00b212a4ef656604342a6abc29c2ac22\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\270e40918a97075528e7dd9c622829bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\f5028aa3443369d5457a2bbf33b0ef12\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\e48ded21939cb5f53d929cb765e16443\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\af7834d29c896b2f4360aa0e101003ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\29e214fa5a69ff047f26e48d3c329bfb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\9472e0186cda6a7c263663f2aef48997\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:3:11-46
+		INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8221535a8f99ec4a9b7c5a6218939d71\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8221535a8f99ec4a9b7c5a6218939d71\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8fa728c6ee3383aecde2ea98f83d9de9\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8fa728c6ee3383aecde2ea98f83d9de9\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\ea9e23712124ad8767a0bc9454fbd53c\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\ea9e23712124ad8767a0bc9454fbd53c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8fa728c6ee3383aecde2ea98f83d9de9\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.alrubaye.tictactoeapp.MainActivity
+ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\5d04706431cee6d9eb37ffcadec18ce2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\5d04706431cee6d9eb37ffcadec18ce2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8fc5cbd9ec8e3af57640f2c26eee365b\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8fc5cbd9ec8e3af57640f2c26eee365b\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8221535a8f99ec4a9b7c5a6218939d71\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8221535a8f99ec4a9b7c5a6218939d71\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\c90fc6e062d70717277692d05a6b40fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\c90fc6e062d70717277692d05a6b40fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\f71c0397eaea63de0809af19192208cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\f71c0397eaea63de0809af19192208cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\761176c291af4f29bb74ccd9a681ef1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\761176c291af4f29bb74ccd9a681ef1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\33e44b11f39b4b7ccb2e188f4b875ee2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\33e44b11f39b4b7ccb2e188f4b875ee2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\7a7ef024c47faeb647a5fec721508778\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\7a7ef024c47faeb647a5fec721508778\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\5beef4d07e2e820e202407d045f9cebe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\5beef4d07e2e820e202407d045f9cebe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\e2799cab3d793425c63a74f588b3e19c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\e2799cab3d793425c63a74f588b3e19c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\c760e46db9b04a7be5fae0b1dc8ffcc2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\c760e46db9b04a7be5fae0b1dc8ffcc2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\e1f9ae39301f053ec5fa5dce1e2e1b38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\e1f9ae39301f053ec5fa5dce1e2e1b38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\2485a6a8e1c15788c7451f5a0dd970d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\2485a6a8e1c15788c7451f5a0dd970d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\3bbf076d71e981ef3472738987359035\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\3bbf076d71e981ef3472738987359035\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\d252277807418589261d6d4e91472d37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\d252277807418589261d6d4e91472d37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\99d3c62305b11601f9913dcadea92488\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\99d3c62305b11601f9913dcadea92488\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8fa728c6ee3383aecde2ea98f83d9de9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\8fa728c6ee3383aecde2ea98f83d9de9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\ea9e23712124ad8767a0bc9454fbd53c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\ea9e23712124ad8767a0bc9454fbd53c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\1a6d097128afbccc39a7338bad9e9dff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\1a6d097128afbccc39a7338bad9e9dff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\04917db2f5bc4eb7aa89c96f60eab39b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\04917db2f5bc4eb7aa89c96f60eab39b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\abf4233938f230022b60fca181c3c751\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\abf4233938f230022b60fca181c3c751\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\00b212a4ef656604342a6abc29c2ac22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\00b212a4ef656604342a6abc29c2ac22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\270e40918a97075528e7dd9c622829bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\270e40918a97075528e7dd9c622829bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\f5028aa3443369d5457a2bbf33b0ef12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\f5028aa3443369d5457a2bbf33b0ef12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\e48ded21939cb5f53d929cb765e16443\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\e48ded21939cb5f53d929cb765e16443\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\af7834d29c896b2f4360aa0e101003ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\af7834d29c896b2f4360aa0e101003ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\29e214fa5a69ff047f26e48d3c329bfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\29e214fa5a69ff047f26e48d3c329bfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\9472e0186cda6a7c263663f2aef48997\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sriva\.gradle\caches\transforms-2\files-2.1\9472e0186cda6a7c263663f2aef48997\AndroidManifest.xml:20:5-44
+INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+		ADDED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\STUDY-MODE\PERSONAL\KotlinUdemy-master\KotlinUdemy-master\Android\TicTacToy Game\TicTacToeLocal\app\src\main\AndroidManifest.xml
